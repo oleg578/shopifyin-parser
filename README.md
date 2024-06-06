@@ -1,2 +1,2 @@
 # shopifyin-parser
-parse collections and metafields from ftp supplier
+parse shopify collections and metafields from ftp supplier
